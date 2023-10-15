@@ -1,3 +1,1 @@
-# Python
-
-https://camo.githubusercontent.com/a6a594ae99bb801830151596208ddc1cb603d24e880f10bd694df18b494de8fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
