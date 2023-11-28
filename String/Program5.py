@@ -7,3 +7,9 @@ if str2 in str1:
     print("Found")
 else :
     print("Not found")
+
+n = str1.find(str2)
+if n == -1:
+    print("Not found")
+else :
+    print("found")
